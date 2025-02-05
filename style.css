@@ -1,25 +1,52 @@
 * {
-    margin: 0%;
-    padding: 0%;
     box-sizing: content-box;
     font-family: "Montserrat", serif;
 }
 
-h1 {
-    text-align: center;
-    margin-right: 9.5rem;
+header {
+    /* align-items: center; */
+    /* align-self: center; */
+    align-content: center;
 }
 
 header nav div a img {
     height: 60px;
 }
 
-main div img {
-    width: 100%;
+nav {
+    margin-left: 25%;
 }
 
-.bcci-info a {
+.container {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 1.5rem;
+}
+
+main div img {
+    width: 100%;
+    height: 500px;
+}
+
+ a {
     text-decoration: none;
+}
+
+blockquote {
+    margin-left: 10rem;
+}
+
+section .team-india-bg-p img {
+    width: 100%;
+    height: auto;
+}
+
+button {
+    margin-left: 1rem;
 }
 
 footer p {
