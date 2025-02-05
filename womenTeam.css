@@ -1,0 +1,22 @@
+* {
+    box-sizing: content-box;
+    font-family: "Montserrat", serif;
+}
+
+section div img {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+}
+
+footer p {
+    text-align: center;
+    font-weight: 600;    
+}
+
+footer span {
+    font-size: 17.5px;
+    margin-right: 0.2rem;
+}
