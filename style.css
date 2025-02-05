@@ -1,0 +1,33 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: content-box;
+    font-family: "Montserrat", serif;
+}
+
+h1 {
+    text-align: center;
+    margin-right: 9.5rem;
+}
+
+header nav div a img {
+    height: 60px;
+}
+
+main div img {
+    width: 100%;
+}
+
+.bcci-info a {
+    text-decoration: none;
+}
+
+footer p {
+    text-align: center;
+    font-weight: 600;    
+}
+
+footer span {
+    font-size: 17.5px;
+    margin-right: 0.2rem;
+}
